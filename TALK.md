@@ -36,3 +36,8 @@ But I believe there will be guys who are similar to Novel.
 So there's a steady distribution to people with high reputation?
 - Gopher JK, May 15th 2020 at 4:49 PM  
 yes
+- Michael, May 15th 2020 at 6:13 PM  
+I think you might have a hard time getting people to invest their time early
+- Gopher JK, May 15th 2020 at 6:19 PM  
+yeah, that's the most challenging thing.
+I need to investigate time to refine idea before that
