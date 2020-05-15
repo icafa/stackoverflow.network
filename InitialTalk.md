@@ -32,3 +32,7 @@ Stackoverflow is not related to money but our network members will be getting re
 Our community members will get reward from ATOM validators. Supporters of developer network will be validator of ATOM and they will put the whole rewards into the developer network and community members will split for some rules.
 I will put my whole ATOM for this. Owners can leave any time if they don't like.
 But I believe there will be guys who are similar to Novel.
+- Michael, May 15th 2020 at 4:48 PM  
+So there's a steady distribution to people with high reputation?
+- Gopher JK, May 15th 2020 at 4:49 PM  
+yes
