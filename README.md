@@ -27,8 +27,13 @@ This project will be based on [Cosmos network](https://cosmos.network), ecosyste
 
 # Project contributers
 
-1. Jun Kai
-[Linkedin](https://www.linkedin.com/in/jun-kai-78911a156/)
-[Github](https://github.com/junkai121)
+1. Jun Kai - Go/Cosmos fan
+- junkai121@outlook.com
+- [Linkedin](https://www.linkedin.com/in/jun-kai-78911a156/)
+- [Github](https://github.com/junkai121)
+2. Who?
+- xxx@xxx.com
+- [Linkedin]()
+- [Github]()
 
 
