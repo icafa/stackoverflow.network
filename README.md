@@ -3,6 +3,11 @@
 This project starts from the idea of helping charity community members like stackoverflow problem solvers.
 This project will be based on [Cosmos network](https://cosmos.network), ecosystem of connected blockchains.
 
+# Organization Github
+
+- https://github.com/CosmosStackOverflow
+- [Core project](https://github.com/CosmosStackOverflow/CSOBlockchain)
+
 # Key features
 
 - Cosmos network ecosystem
