@@ -9,3 +9,16 @@ And since our token is used as collateral, he/she will lose reputation and balan
 
 # Reputation is also used for staking.
 # Problem solving is growing reputation.
+# Token price
+Our tokens which is also expressed as reputation will be backed by collateral balance.
+That collateral balance will be put on Cosmos.network and get staked as time goes.
+
+1 ATOM = 1000 reputation = 1000 CSO token
+
+# Transparency
+
+As a decentralized platform, all of these guaranteeing process will be done in a decentralized way.
+
+# Moderator tokens
+# Reputation tokens
+# Investor tokens
