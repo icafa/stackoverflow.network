@@ -7,6 +7,7 @@ This project will be based on [Cosmos network](https://cosmos.network), ecosyste
 
 - https://github.com/CosmosStackOverflow
 - [Core project](https://github.com/CosmosStackOverflow/CSOBlockchain)
+- [Discord](https://discord.gg/ySQrpZ)
 
 # Key features
 
