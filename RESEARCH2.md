@@ -1,5 +1,6 @@
 
 # Cosmos projects [Need to check things and find relevant projects that we can consider for our project]
+(https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 
 https://github.com/forbole/forboled
 https://docs.binance.org/
