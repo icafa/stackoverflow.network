@@ -22,6 +22,15 @@ https://mesg.com/
 A decentralized event-driven task-orchestration system based on a decentralized registry of services.
 Usability: We can use this platform or reference this platform, as we need to manage events and tasks within our system.
 
+https://lino.network/research/
+Value-Sharing Content Economy
+Usability: We will be running value sharing economy, sharing solutions for difficult problems and will get values as getting upvotes.
+
+https://commercio.network/
+Exchange and sign a document with the eIDAS principle that it should not be denied legal effect on the grounds that it is in electronic form.
+eID, eDelivery, eSignature
+Usability: We can be using this service for contracts created on our platform
+
 https://www.okex.com/
 The Infrastructure of Decentralized Exchange
 Usability: Our platform can be required to integrate Decentralized Exchange.
@@ -146,42 +155,26 @@ Identity ecosystem
 Usability: We might need to use identity system for correct reputation management.
 
 https://openst.org/
+The OpenST Foundation is dedicated to supporting initiatives that further mainstream adoption of Blockchain technologies.
+Usability: We might need to get help from openST for initial stage.
+
 https://paradigm.market/
-https://lino.network/research/
+Liquidity Solutions for Decentralized Finance
+Usability: We are a decentralized Finance and will be using Liquidity solution from paradigm.
+
 https://thorchain.org/
-http://xmnblockchain.com/
-https://www.fulcrumchain.com/
-https://www.ockam.io/
-https://www.moldproject.org/
-https://nomic.io/
-https://bytom.io/en/
-https://www.qoschain.io/#/xingyun
-https://commercio.network/
-https://crypto.com/en/chain
-https://chainpoint.org/
-https://www.strongforce.io/
-https://github.com/comrade-coop/wetonomy
-https://agoric.com/about/
-https://www.cryptape.com/#/
+THORChain facilitates cross-chain liquidity pools with no pegged or wrapped tokens.
+Swap between assets across chains. Stake assets to earn liquidity incentives. Run a node to service the network.
+Usability: This can be used for safe token swapping and staking over other staking solutions.
+
 https://www.lightstreams.network/
+The Blockchain for Speed and Privacy
+Usability: we might need to build high speed project as users will like real application feeling.
+
 https://www.spend.com/
-https://hub.dgaming.com/
-https://color-platform.org/~colors/en/
-https://www.hiblocks.io/login/loginP.do
-https://tichex.com/
-https://www.kadena.io/home
-https://lcnem.com/
-https://nymtech.net/
-https://bepswap.com/
-https://twitter.com/DeTicket1
-https://www.everett.zone/
-https://www.thetatoken.org/
-https://peaq.io/
-https://www.oneledger.io/
-https://www.enledger.io/
-https://altcoin.io/
-https://uphack.co/
-https://medium.com/coinmonks/deploying-proof-of-stake-blockchain-applications-on-ibm-cloud-using-tendermint-8544a0185d84
+Banking as a Service
+Usability: Do we need banking solution?
+
 https://github.com/SaifRehman/tendermint-chat-app
 https://github.com/zbo14/comit
 https://github.com/trusch/passchain
