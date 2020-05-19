@@ -202,7 +202,73 @@ https://lamarkaz.com/
 https://0x.org/
 https://chainspace.io/
 
-# Google search for credit rating system as Michael recommended
+# Google search for "blockchain credit rating system" as Michael recommended
+
+## What Is a Credit Rating?
+
+A credit rating (= trust rating, trust level) is a quantified assessment of the creditworthiness of a borrower in general terms or with respect to a particular debt or financial obligation. A credit rating can be assigned to any entity that seeks to borrow money—an individual, corporation, state or provincial authority, or sovereign government.
+
+Individual credit is scored from by credit bureaus such as Experian and TransUnion on a three-digit numerical scale using a form of Fair Isaac (FICO) credit scoring. Credit assessment and evaluation for companies and governments is generally done by a credit rating agency such as Standard & Poor's (S&P), Moody's, or Fitch. These rating agencies are paid by the entity that is seeking a credit rating for itself or for one of its debt issues.
+
+## Issue bond
+
+A bond is a fixed income instrument that represents a loan made by an investor to a borrower (typically corporate or governmental)
+
+## blockchain credit rating system
+
+## Credit rating agencies
+EQUIFAX
+EXPERIAN
+TRANSUNION
+
+## Blockchain credit rating agencies (not yet.)
+https://provenance.io/
+https://www.morningstar.com/
+https://m.moodys.com/
+https://www.cryptoratingcouncil.com/
+https://www.crunchbase.com/organization/bloxable#section-overview
+
+## Blockchain credit rating articles
+
+[Blockchain impact on credit ratings by provenance](https://provenance.io/documents/blockchain-impact-on-credit-ratings.pdf) - downloaded on local folder.
+
+[Constructing Trustworthy and Safe Communities on a Blockchain-Enabled Social Credits System](https://arxiv.org/pdf/1809.01031.pdf) - downloaded on local folder.
+
+[Moody's New development](https://www.moodys.com/sites/products/ProductAttachments/2_New_Developments.pdf) - downloaded on local folder.
+
+[Credit rating processes could get better with blockchain tech](https://www.fintechfutures.com/2018/04/credit-rating-processes-could-get-better-with-blockchain-tech/)
+
+[Morningstar Develops Blockchain Platform for Debt Securities](https://cointelegraph.com/news/morningstar-develops-blockchain-platform-for-debt-securities)
+
+[Financial Services Giant Morningstar to Offer Ratings for Crypto Assets](https://www.coindesk.com/financial-services-giant-morningstar-to-offer-ratings-for-crypto-assets)
+
+[Asset Ratings Giant Morningstar Takes First Plunge Into Blockchain Securities](https://www.coindesk.com/asset-ratings-giant-morningstar-takes-first-plunge-into-blockchain-securities)
+
+[Morningstar To Become Crypto Rating Agency](https://www.biia.com/morningstar-to-become-crypto-rating-agency)
+
+[Credit Rating Firm Backs $8 Million Fundraise for Crypto Alternative](https://www.coindesk.com/chinese-credit-rating-firm-backs-blockchain-startups-8-million-round)
+
+[Blockchain Advantages for Rating Agencies](https://medium.com/@_ivan_zone/blockchain-advantages-for-rating-agencies-f58610e92544)
+
+[Blockchain technology is not just for financial services](https://www.consultancy.uk/news/13713/blockchain-technology-is-not-just-for-financial-services)
+
+[Saudi blockchain pilot could save banks up to $400m per year, Moody's says](https://www.thenational.ae/business/saudi-blockchain-pilot-could-save-banks-up-to-400m-per-year-moody-s-says-1.706414)
+
+[Blockchain Benefits for Market Data Providers](https://medium.com/@_ivan_zone/blockchain-benefits-for-market-data-providers-55fc3ba71451)
+
+[The Future of Blockchain and U.S. Credit Scores](https://theblockchainland.com/2020/02/26/future-blockchain-us-credit-scores/)
+
+[Credit Scoring And Blockchain — New Rating Agencies To Emerge](https://bitnewstoday.com/news/credit-scoring-and-blockchain-new-rating-agencies-to-emerge/)
+
+[S&P: Widespread Blockchain Implementation Could Affect Ratings](https://news.bitcoin.com/sp-blockchain-could-affect-ratings/)
+
+[Credit Evaluation System Based on Blockchain for Multiple Stakeholders in the Food Supply Chain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121317/)
+
+[Will Blockchain Technology Be Used to Build Evil Social Credit Systems?](https://cointelegraph.com/news/will-blockchain-technology-be-used-to-build-evil-social-credit-systems)
+
+[What Blockchain Could Mean For Structured Finance](https://www.spglobal.com/en/research-insights/articles/what-blockchain-could-mean-for-structured-finance)
+
+[A Study on Blockchain-Based Circular Economy Credit Rating System](https://link.springer.com/chapter/10.1007/978-3-319-76451-1_32)
 
 
 # Similar reputation related projects from https://github.com/topics/reputation
