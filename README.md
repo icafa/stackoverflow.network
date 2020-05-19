@@ -9,6 +9,11 @@ Individuals borrow and investors lend.
 The thing that make out platform different is it's distributed and not restricted to local bank.
 It's working across the world and KYC is not mandatory process. But better if do KYC for better level of service.
 
+# Purpose of this project
+
+Encourage developers to contribute more to open source projects to build better public profile.
+And to keep users' rating as a number in 1 place.
+
 # Organization Github
 
 - https://github.com/CosmosStackOverflow
