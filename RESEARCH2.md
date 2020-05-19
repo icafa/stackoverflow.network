@@ -3,71 +3,144 @@
 (https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 
 https://github.com/forbole/forboled
-https://docs.binance.org/
-https://www.okex.com/
-https://kiraex.com/
-https://persistence.one/
-https://aragon.org/
-https://e-money.com/
-https://sentinel.co/
-https://www.foam.space/
-https://comdex.sg/
-https://althea.net/
-https://www.hyperledger.org/projects/hyperledger-burrow
-https://mesg.com/
-https://www.regen.network/
-https://www.bigchaindb.com/
-https://cybercongress.ai/
-https://iov.one/
-https://www.irisnet.org/
-https://data.eco/
-https://akash.network/
-https://artis.eco/
-https://like.co/
-https://konstellation.tech/
-https://medibloc.org/en
-https://ixo.world/
-https://enigma.co/
-https://www.proximax.io/
-https://crowdcontrol.network/
-https://datopia.io/
-https://foundation.ki/en
-https://vocdoni.io/
-https://fxclr.com/
-https://www.stratumn.com/
-https://moracle.network/
-http://fourthstate.network/
-https://parseclabs.org/
-https://ercoin.tech/
-https://www.smartpesa.com/
-https://sharering.network/
-https://omisego.co/
-https://www.cybermiles.io/en-us/
-https://fluence.network/
-https://www.boid.com/
-https://vegaprotocol.io/
-https://expload.com/en
-http://peerity.io/
-https://50coin.io/
-https://codechain.io/
-https://tatau.io/
-https://www.digitalid.or.th/
-https://www.minter.network/
-https://papyrus.network/
-https://pallium.network/
-https://www.oracle.com/index.html
-https://www.hashgard.io/#/
-https://docs.google.com/presentation/d/1-8MP2yRhTy7D1YDUiauJoJ1g_ppXQbRpk0YTQ0ZFEzw/edit#slide=id.g3772f84a12_0_18
+An incentivised social ecosystem based on blockchain using Cosmos SDK.
+Usability: Our platform is social ecosystem, and it this should be very useful.
+
+https://github.com/TruStory/truchain
+TruStory started out with the goal of building a decentralized app that had the look and feel of a normal app that people are used to. We didn’t want our users to wait for confirmations every time they performed an action, or have to deal with pending transactions.
+Usability: This is going to be a very cool idea, our users will not want to wait for transaction confirmation etc.
+
 https://www.kava.io/
-http://unicoins.us/beta/#/
-https://kuende.com/
-http://www.wisdomofcrowd.org/
-https://www.trustory.io/
+DeFi for crypto
+Usability: We are a community trust DeFi, need to investigate time to know how it works
+
 https://agreements.network/
+An open ecosystem to create, distribute, and operate legal agreements.
+Usability: We are monetizing the reputation, so we will need to build legal agreement network to lending/borrowing money to developers and clients.
+
+https://mesg.com/
+A decentralized event-driven task-orchestration system based on a decentralized registry of services.
+Usability: We can use this platform or reference this platform, as we need to manage events and tasks within our system.
+
+https://www.okex.com/
+The Infrastructure of Decentralized Exchange
+Usability: Our platform can be required to integrate Decentralized Exchange.
+
+https://persistence.one/
+Creating Trust & Transparency in Private Markets
+Usability: We are a reputation based trust so could be similar to this platform.
+
+https://akash.network/
+The world’s first decentralized cloud computing marketplace
+Usability: Cloud computing is always useful for any platforms.
+
+https://like.co/
+A public blockchain for content monetization, attribution and distribution.
+Usability: This might be useful, our community content can be collaborated with like.co and can get benefits from like.co network.
+
+https://aragon.org/
+Aragon gives internet communities unprecedented power to organize around shared values and resources.
+Create a DAO in 5 minutes
+Usability: We are a community, and we can consider using aragon service or create a brand new one.
+
+https://www.foam.space/
+FOAM provides the tools to enable a crowdsourced map and decentralized location services.
+Usability: Our platform can be using location service as a community.
+
+https://comdex.sg/
+Comdex is a trade-tech solution built to bring efficiency, transparency, and trust to the commodity trade and trade finance industries.
+Usability: We need trading solution to increase community money.
+
+https://althea.net/
+Faster, cheaper, decentralized internet
+Usability: Hmm, do we need to pay cheaper internet fee using althea net? :)
+
+https://www.regen.network/
+Realiging the economics of agriculture. We build open tools that facilitate ecological regeneration.
+Usability: Our community support agriculture? This platform is getting trusted investment so we can use similar approach for investment.
+
+https://www.bigchaindb.com/
+The blockchain database.
+Usability: We might be using bigchaindb to put all the public/private data in cheap and decentralized place.
+
+https://iov.one/
+Crypto-payments made easy. It all begins with a *starname
+Usability: We might be building similar, we can use something like *csostarname for crypto payments.
+
+https://www.irisnet.org/
+Incorporation of a service-oriented infrastructure into Cosmos.
+Integration of business services.
+Usability: We might need to use this service to integrate business services into our system.
+
+https://data.eco/
+Decentralized AI-powered Trust Alliance
+DATA is a blockchain based digital data authentication protocol powered by AI & P2P mobile storage infrastructure.
+Usability: Most interesting thing is it's AI-powered Trust Alliance. We're going to build community app driven natural AI system and this might be useful. But later time.
+
+https://konstellation.tech/
+Pioneering Blockchain Solutions for Financial Services
+Usability: We might need to collaborate with Financial Services to ensure correct financial services are provided to our community members.
+
+https://enigma.co/
+Enigma is a decentralized, encrypted data, bringing privacy to smart contracts and public blockchains. 
+Usability: We might need secured data storing by using enigma or build something similar by considering this platform.
+
+https://vocdoni.io/
+Vocdoni provides the necessary tools for your organization to reinvent what governance is.
+Usability: It's voting platform. I simply like this community website, it's not letting my eye painful and looks natural.
+
+https://fxclr.com/
+Make transaction fees lower by using fxclr platform as central.
+Usability: Website is chaos but if this provides low fee solution, we can use this service. Need time investigation.
+
+https://www.stratumn.com/
+Trello like system on blockchain, called "Proof of Process".
+Usability: We will need to have internal service like trello but it's something to do later time.
+
+https://fluence.network/
+Serverless, Permissionless, Decentralized Cloud
+Usability: We might need to use Decentralized Cloud for our platform.
+
+https://www.boid.com/
+The Social Supercomputer, mining pool (I think), Earn Rewards
+Usability: We night need to run computer as mining pool. But it's good for computer lifecycle?
+
+https://papyrus.network
+Providing highly scalable, reliable and cost-efficient decentralized platform for application developers.
+Usability: We will need to focus much on fee system. Papyrus network solved fee problem so we might need to do something similar on our community network.
+
+https://pallium.network
+Pallium Network is a distributed computing network for ML. It is decentralized and self-organized and it has processes and events occurring between its participants and getting managed also by them with the help of blockchain technology. Pallium network is capable of performing computing tasks of different scale and complexity.
+Usability: This looks like something I want. Network is not only calculating blocks, but provide distributed computing network for ML. Which is wow! Also it's open source :)
+
+https://www.oracle.com/index.html
+Gen2 Cloud infrastructure
+Usability: Cloud computing is always needed for any platform
+
+https://www.hashgard.io/#/
+Future Financial Autonomous Network
+Usability: Financial network are always need to be researched as it's very important
+
+https://docs.google.com/presentation/d/1-8MP2yRhTy7D1YDUiauJoJ1g_ppXQbRpk0YTQ0ZFEzw/edit#slide=id.g3772f84a12_0_18
+Bitcoin Scalability & Micropayments via Cosmos
+Usability: We might need some micropayment solution as we will be distributing payments to large number of users.
+
+http://unicoins.us/beta/#/
+What is a lucky draw? Transparent random number generator
+Usability: We might open a lottery in community. It's not a bad thing, but just to enjoy life without going outside to do lottery.
+
+http://www.wisdomofcrowd.org/
+It is a decentralized prediction market is powered Cosmos and Tendermint Blockchain system to create 5 phase prediction market that is simple and secure.
+Usability: This decentralized prediction market could be very useful for our system. We need to do trading to increase community money.
+
 https://datapace.io/
-https://www.playlist.com/
-https://www.clearing.cc/
+Data marketplace powered by Blockchain and the global network of sensors
+Usability: we can also run marketplace, but it's later time.
+
 https://memecom.co/
+Memecom is a game that lets you experience the peaks and troughs of market investments while browsing the latest memes. Each meme has a market price that's determined by fellow meme traders and you, as a user, will influence this price by choosing whether or not to buy or sell.
+Usability: Offtopic, this might be interesting if someone want to be a great trader.
+
 https://openst.org/
 https://paradigm.market/
 https://lino.network/research/
@@ -128,6 +201,9 @@ http://beekan.org/index_en.html
 https://lamarkaz.com/
 https://0x.org/
 https://chainspace.io/
+
+# Google search for credit rating system as Michael recommended
+
 
 # Similar reputation related projects from https://github.com/topics/reputation
 
