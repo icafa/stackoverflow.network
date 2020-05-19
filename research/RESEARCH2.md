@@ -141,6 +141,10 @@ https://memecom.co/
 Memecom is a game that lets you experience the peaks and troughs of market investments while browsing the latest memes. Each meme has a market price that's determined by fellow meme traders and you, as a user, will influence this price by choosing whether or not to buy or sell.
 Usability: Offtopic, this might be interesting if someone want to be a great trader.
 
+https://identity.foundation/
+Identity ecosystem
+Usability: We might need to use identity system for correct reputation management.
+
 https://openst.org/
 https://paradigm.market/
 https://lino.network/research/
