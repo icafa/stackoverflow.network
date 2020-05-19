@@ -3,6 +3,12 @@
 This project starts from the idea of helping charity community members like stackoverflow problem solvers.
 This project will be based on [Cosmos network](https://cosmos.network), ecosystem of connected blockchains.
 
+For business perspective, this is blockchain credit rating system for open source contributers.
+Individuals borrow and investors lend.
+
+The thing that make out platform different is it's distributed and not restricted to local bank.
+It's working across the world and KYC is not mandatory process. But better if do KYC for better level of service.
+
 # Organization Github
 
 - https://github.com/CosmosStackOverflow
