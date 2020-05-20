@@ -18,6 +18,9 @@ https://github.com/likecoin/likecoin-chain
 - encrypted data solution; cosmos sdk is latest
 https://github.com/enigmampc/EnigmaBlockchain
 
+- DeFi Kava
+https://github.com/Kava-Labs/kava
+
 
 - We need chat feature, consider this
 https://github.com/SaifRehman/tendermint-chat-app
