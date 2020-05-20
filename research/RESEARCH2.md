@@ -176,28 +176,8 @@ Banking as a Service
 Usability: Do we need banking solution?
 
 https://github.com/SaifRehman/tendermint-chat-app
-https://github.com/zbo14/comit
-https://github.com/trusch/passchain
-https://github.com/rigelrozanski/passwerk
 https://github.com/wolfposd/TMChat
-https://github.com/eeonevision/anychaindb
-https://github.com/AdityaSripal/token_curated_registry
-https://github.com/jTendermint
-https://github.com/CrackTheCode016/tendermint-iot
-https://chain.com/
-https://chainx.org/
-https://devslopes.com/
-https://github.com/datachainlab/hypermint
-https://www.zenprotocol.com/
-https://kyber.network/
-https://raiden.network/
-https://request.network/en/#/
-https://unichaintr.com/
-https://u.network/
-http://beekan.org/index_en.html
-https://lamarkaz.com/
-https://0x.org/
-https://chainspace.io/
+Usability: We need chat feature, consider this
 
 # Google search for "blockchain credit rating system" as Michael recommended
 
