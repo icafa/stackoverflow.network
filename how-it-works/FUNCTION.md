@@ -7,6 +7,15 @@ When you get downvote, will get +2.
 
 There's a reputation bounty for hardly solvable problems.
 
+We will have double upvote feature for which he really like.
+He will take out his repuation for really like upvoting.
+He will get -2 rep, other will get +20 point.
+
+Own answer upvote will result in minus.
+If you heart upvote on your own, you will get -22.
+And if you upvote on your own, you will get -10.
+But those icons will always be visible on your article.
+
 # Voting cost
 
 We should think of voting cost, if voting is free, it can make lots of malicious users and we can't stop it.
