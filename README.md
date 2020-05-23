@@ -16,7 +16,6 @@ And to keep users' rating as a number in 1 place.
 
 # Organization Github
 
-- https://github.com/CosmosStackOverflow
 - [Core project](https://github.com/CosmosStackOverflow/CSOBlockchain)
 - [Discord](https://discord.gg/ySQrpZ)
 
