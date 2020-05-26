@@ -24,3 +24,4 @@
 - Do not have an offensive or sexually explicit nickname or profile picture, moderators will give you a nickname and ask you to change it when it is noticed
 - Do read channel descriptions, they are effectively rules!
 - Do use common sense, Moderators can take action at their own discretion if necessary
+- It's not allowed to write unprofessional word even though he/she is angry. Angry words are for casual situation in private chat.

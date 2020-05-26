@@ -44,6 +44,8 @@ We should do marketing to find tons of potential users.
 Everyone is always open to better job opportunities. We just record what they do, and they get job opportunity.
 That's a good one.
 Guys who don't like selfish and cruel should like us, as we are the same group where all like trust will be here.
+Guys who like to find friends who are similar to them can find friends here.
+Our platform is full of open-minded, trusted, honest and professional guys and you can find friends easily that are open-minded here.
 
 # We need research for cryptocurrency / blockchain users to verify our community idea
 One thing I have in mind is, cryptocurrency job sites are not going rapidly as still there's no big trust with cryptocurrency developers. 
