@@ -16,7 +16,7 @@ If you heart upvote on your own, you will get -22.
 And if you upvote on your own, you will get -10.
 But those icons will always be visible on your article.
 
-If there's more than 5 hearts on that subject, first heart upvoted person get bonus reputation of +10.
+If there's more than 5 hearts on that subject, first heart upvoted person get bonus reputation of +10 and the other upvoters get 2 reputation returned.
 
 # Voting cost
 
