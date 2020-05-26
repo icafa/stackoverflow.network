@@ -18,6 +18,8 @@ But those icons will always be visible on your article.
 
 If there's more than 5 hearts on that subject, first heart upvoted person get bonus reputation of +10 and the other upvoters get 2 reputation returned.
 
+For competitions, there's bonus like +30 or +100 based on the importance of that competition in community level.
+
 # Voting cost
 
 We should think of voting cost, if voting is free, it can make lots of malicious users and we can't stop it.
