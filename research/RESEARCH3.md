@@ -53,3 +53,14 @@ One thing I have in mind is, cryptocurrency job sites are not going rapidly as s
 - Cryptocurrency job sites, I will try to find good guys there by paying cryptocurrency and will share my thoughts to community.
 
 # We just say go away for those who are selfish and cruel at any time.
+
+# How to make our platform move in right direction without success
+
+https://www.crunchbase.com/organization/trustory
+It's similar platform with us but business model was not correct that's why they didn't success
+We need idea refinement before finish
+And also need to test this idea in small size of audience
+I decided it to 150 users as a first stage
+after that we will test in 1000
+and then after that 10000
+After 10000, we will move to main net
