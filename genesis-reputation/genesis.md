@@ -16,3 +16,11 @@ Niche: +60 (20 x 2 + 10 x 2)
 Asmodat: +30 (10 x 3)
 GeeMac: +10 (10 x 1)
 
+*Community logo design reputation competition result June 11, 2020*
+Manu: +193 (100 + 10avg(10x3+9x3+8x1))
+GraphicMorgan: +93 ( 10avg(9x1 + 9x4 + 10x2))
+GeeMac: +85 (10avg(7x2 + 10x1 + 9x3))
+Shiki: 84 (10avg(8x5 + 7x1 + 10x2))
+Niche: +10 (vote participation)
+kessler: +10 (vote participation)
+luigi: +10 (vote participation)
